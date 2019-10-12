@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eijeiquae.morten-roesen.com/sitemap.xml
